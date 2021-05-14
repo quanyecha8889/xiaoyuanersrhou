@@ -1,0 +1,102 @@
+.title {
+  color: #000000;
+  font-size: 40rpx;
+}
+
+.input {
+  border: solid 1px gainsboro;
+  width: 98%;
+  margin: 1%;
+}
+
+.desc {
+  margin-top: 25rpx;
+  width: 98%;
+  border: solid 1px gainsboro;
+  margin: 1%;
+  height: 150rpx;
+}
+
+.picker {
+  color: red;
+  margin: 30rpx;
+  font-size: 36rpx;
+  /* text-align: center; */
+}
+
+.imageRootAll {
+  margin-top: 30rpx;
+  margin-bottom: 60rpx;
+  display: flex;
+  display: -webkit-flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+
+.imgItem {
+  margin: 6rpx;
+  position: relative;
+  width: 176rpx;
+  height: 176rpx;
+  background: gainsboro;
+}
+
+.img {
+  width: 100%;
+  height: 100%;
+}
+
+.closeImg {
+  position: absolute;
+  right: 0px;
+  width: 32rpx;
+  height: 32rpx;
+}
+
+.photo {
+  width: 50%;
+  height: 50%;
+  margin: 25%;
+}
+
+/* 还未登录时的弹窗 */
+.toast-box {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
+
+.toastbg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  opacity: 0.6;
+  background: #000;
+  z-index: 666;
+}
+
+
+.showToast {
+  position: absolute;
+  background: white;
+  opacity: 1;
+  width: 100%;
+  height: 300rpx;
+  bottom: 0;
+  z-index: 888;
+}
+
+.toast_btn {
+  width: 90%;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

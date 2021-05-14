@@ -1,0 +1,143 @@
+/* 顶部轮播图 */
+swiper {
+  height: 380rpx;
+}
+
+/* 搜索框 */
+.searchRoot {
+  background: rgb(255, 255, 255);
+  padding: 25rpx;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.searchInput {
+  flex: 1;
+  height: 70rpx;
+  padding-left: 30rpx;
+  border: 1px solid #f4c903;
+  border-radius: 30rpx;
+}
+
+.searchImg {
+  width: 70rpx;
+  height: 70rpx;
+  margin: 0 15rpx;
+}
+
+/* 九宫格区域 */
+.category_panel1 {
+  width: 100%;
+  display: flex;
+  color: #666;
+  flex-direction: column;
+  font-size: 11px;
+  justify-content: space-around;
+}
+
+.category-panel2 {
+  height: 90px;
+  width: 100%;
+  display: flex;
+  color: #666;
+  flex-direction: row;
+  font-size: 11px;
+  justify-content: space-around;
+}
+
+.category-item {
+  display: flex;
+  width: 60px;
+  text-align: center;
+  flex-direction: column;
+}
+
+.category-item-image {
+  width: 50px;
+  height: 50px;
+  overflow: unset;
+  padding: 15px 12px 0 6px;
+}
+
+.category-item-image1 {
+  width: 50px;
+  height: 45px;
+  overflow: unset;
+  padding: 15px 12px 0 6px;
+}
+
+.category-item-text {
+  margin-top: 11px;
+}
+
+.category-item-text1 {
+  margin-top: 0px;
+}
+
+/* 热门推荐商品 */
+.hot_tip {
+  font-size: 45rpx;
+  color: #f4c903;
+  margin: 25rpx 25rpx 15rpx 30rpx;
+}
+
+
+/*列表  */
+
+.good_item {
+  display: flex;
+  align-items: center;
+  margin: 5rpx 40rpx;
+  border-bottom: 1px gainsboro solid;
+  background-color: #ffffff;
+  margin-top: 3rpx;
+}
+
+.cai_img {
+  width: 120rpx;
+  height: 120rpx;
+  line-height: 120rpx;
+  text-align: center;
+  margin-left: 10rpx;
+  margin-right: 30rpx;
+}
+
+.cai_root2 {
+  flex: 1;
+  min-width: 0
+}
+
+.cai_title {
+  font-weight: 400;
+  font-size: 38rpx;
+  width: auto;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  word-wrap: normal;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+
+.cai_sell {
+  font-size: 30rpx;
+  color: gray;
+}
+
+
+
+.cai_price {
+  /*价格*/
+  font-weight: bold;
+  font-size: 32rpx;
+  color: #ff9600;
+}
+
+
+
+.cai_price:before {
+  /*人民币符号*/
+  content: "￥";
+  font-size: 14px;
+}
