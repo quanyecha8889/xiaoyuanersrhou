@@ -8,7 +8,8 @@
 
 
 
-​                               ![image-20210617110457899](C:\Users\Sherlock Lee\AppData\Roaming\Typora\typora-user-images\image-20210617110457899.png)
+​                     ![image](https://user-images.githubusercontent.com/50260767/122325229-c7258d80-cf5c-11eb-8a06-01f36b29fb13.png)
+
 
 
 
@@ -20,7 +21,8 @@
 
 (2)界面设计
 
-![image-20210617110510066](C:\Users\Sherlock Lee\AppData\Roaming\Typora\typora-user-images\image-20210617110510066.png)
+![image](https://user-images.githubusercontent.com/50260767/122325249-cdb40500-cf5c-11eb-9e80-28dea80ef73c.png)
+
 
  
 
@@ -38,8 +40,7 @@
 
 (2)界面设计
 
-![image-20210617110523351](C:\Users\Sherlock Lee\AppData\Roaming\Typora\typora-user-images\image-20210617110523351.png)
-
+![image](https://user-images.githubusercontent.com/50260767/122325259-d1478c00-cf5c-11eb-9582-a48cc1b19c01.png)
 
 
 
@@ -52,7 +53,7 @@
 
 (2)界面设计
 
-![image-20210617110541368](C:\Users\Sherlock Lee\AppData\Roaming\Typora\typora-user-images\image-20210617110541368.png)
+![image](https://user-images.githubusercontent.com/50260767/122325270-d573a980-cf5c-11eb-9b24-e2d92eafdafe.png)
 
 ## 5.下单功能功能
 
@@ -64,7 +65,7 @@
 
 页面如下图5-6所示。
 
- ![image-20210617110548446](C:\Users\Sherlock Lee\AppData\Roaming\Typora\typora-user-images\image-20210617110548446.png)
+![image](https://user-images.githubusercontent.com/50260767/122325279-d86e9a00-cf5c-11eb-8c70-47f963fda3ed.png)
 
 
 
@@ -75,8 +76,7 @@
 用户可以查看自己的订单记录，订单分为待收货、待评价、已完成和已取消四个状态。
 
 (2)界面设计
-
-![image-20210617110600455](C:\Users\Sherlock Lee\AppData\Roaming\Typora\typora-user-images\image-20210617110600455.png)
+![image](https://user-images.githubusercontent.com/50260767/122325285-dd334e00-cf5c-11eb-924d-f238ead245cd.png)
 
 
 
@@ -90,7 +90,7 @@
 
 
 
- ![image-20210617110608782](C:\Users\Sherlock Lee\AppData\Roaming\Typora\typora-user-images\image-20210617110608782.png)
+![image](https://user-images.githubusercontent.com/50260767/122325297-e02e3e80-cf5c-11eb-9983-7d61797eac74.png)
 
 ## 8.反馈功能
 
@@ -102,7 +102,7 @@
 
  
 
-![image-20210617110630720](C:\Users\Sherlock Lee\AppData\Roaming\Typora\typora-user-images\image-20210617110630720.png)
+![image](https://user-images.githubusercontent.com/50260767/122325308-e45a5c00-cf5c-11eb-86ed-f7eba82ee591.png)
 
 
 
@@ -111,6 +111,4 @@
 (1)功能说明
 
 用户可以直接在小程序内联系客服，与客服沟通。管理员可以在手机端和网页端查看和回复用户消息。网页端需要在微信公众平台里的客服板块打开网页端客服页面；手机端则需要在微信公众平台中添加客服成员，然后在手机微信上添加客服小助手小程序，即可在手机端实时查看回复用户消息。
-
-![image-20210617110643650](C:\Users\Sherlock Lee\AppData\Roaming\Typora\typora-user-images\image-20210617110643650.png)
-
+![image](https://user-images.githubusercontent.com/50260767/122325312-e6bcb600-cf5c-11eb-8eef-bb14770097f2.png)
